@@ -1,6 +1,6 @@
 # Welcome to Openterface Mini-KVM Hardware
 
-![docs/mini-kvm-pcb-showcase.jpg](docs/mini-kvm-pcb-showcase.jpg)
+![use-case-pc-angled-view](docs/use-case-pc-angled-view.jpg)
 
 ## Overview
 
@@ -26,3 +26,5 @@ You can find the installation instructions on the respective GitHub repositories
 ## Get Involved
 
 [Keen to contribute?](https://openterface.com/contributing/) Fancy joining our team? Drop us an [email](mailto:info@techxartisan.com)!
+
+![docs/mini-kvm-pcb-showcase.jpg](docs/mini-kvm-pcb-showcase.jpg)
