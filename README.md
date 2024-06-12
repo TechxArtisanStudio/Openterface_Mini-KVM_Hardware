@@ -6,6 +6,9 @@
 
 The [Openterface Mini-KVM](https://openterface.com/) is a compact, feature-rich, and open-source KVM gadget driven by a vibrant [community](https://openterface.com/community/). It allows you to use your own laptop to display and control headless devices directly through a USB and HDMI connection. This KVM-over-USB solution captures video via HDMI and simulates keyboard and mouse inputs. It is particularly useful for a wide range of applications, catering to tech enthusiasts exploring single-board computers, as well as IT professionals troubleshooting headless devices. It eliminates the need for additional monitors, keyboards, and mice, providing a convenient solution in environments where network connections are unreliable or unavailable.
 
+## 🚨 Last Chance Alert! 🚨 
+Back us now on [Crowd Supply](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm) to get the Openterface Mini-KVM **at a wallet-friendly price** of $79 - $99 before the campaign ends on **June 13, 2024, at 4:59 PM PDT**. Post-campaign prices are likely to increase as the product matures. Don’t miss out – act now!
+
 ## Hardware
 ![pcb-v1.6-front](docs/pcb-v1-6-front.jpg)
 ![pcb-v1.6-back](docs/pcb-v1-6-back.jpg)
